@@ -1,10 +1,5 @@
 # Weather API Project
 
-# 🌦 Weather Data Pipeline
-
-This project fetches weather data using OpenWeatherMap API, processes it in Python, 
-and stores it into a PostgreSQL database.
-
 ## Steps:
 1. Fetch data from API using requests
 2. Transform JSON to structured format
