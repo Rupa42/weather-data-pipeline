@@ -21,7 +21,7 @@ This project fetches weather data from an API, processes it using Python, and st
 
 ```bash
 git clone https://github.com/yourusername/weather-api.git
-cd weather-api
+cd weather-api```
 
 2. Install necessary Python packages:
 pip install pandas requests psycopg2
