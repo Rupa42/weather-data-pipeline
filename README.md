@@ -39,7 +39,7 @@ cd weather-api
 pip install pandas requests psycopg2
 
 3.	Run the notebook (weatherapi.ipynb) in JupyterLab or Jupyter Notebook.
-4.	Execute the SQL scripts (your_sql_file.sql) in your PostgreSQL database to create tables and insert data.
+4.	Execute the SQL scripts (sql_file.sql) in your PostgreSQL database to create tables and insert data.
 
 Notes
 	•	Make sure you have access to a PostgreSQL database and the necessary credentials.
