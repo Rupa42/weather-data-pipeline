@@ -21,4 +21,4 @@ This project fetches weather data from an API, processes it using Python, and st
 
 ```bash
 git clone https://github.com/yourusername/weather-api.git
-cd weather-api ```
+cd weather-api```
