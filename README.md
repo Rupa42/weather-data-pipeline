@@ -32,3 +32,5 @@ pip install pandas requests psycopg2
 Notes
 	•	Make sure you have access to a PostgreSQL database and the necessary credentials.
 	•	Replace any API keys or database credentials in the notebook before running.
+Author
+Rupa Mishra
