@@ -22,3 +22,15 @@ This project fetches weather data from an API, processes it using Python, and st
 ```bash
 git clone https://github.com/yourusername/weather-api.git
 cd weather-api
+
+2. Install necessary Python packages:
+pip install pandas requests psycopg2
+
+3.	Run the notebook (weatherapi.ipynb) in JupyterLab or Jupyter Notebook.
+	4.	Execute the SQL scripts (your_sql_file.sql) in your PostgreSQL database to create tables and insert data.
+
+Notes
+	•	Make sure you have access to a PostgreSQL database and the necessary credentials.
+	•	Replace any API keys or database credentials in the notebook before running.
+Author
+Rupa Mishra
