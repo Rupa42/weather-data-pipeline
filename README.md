@@ -17,7 +17,7 @@
 ## Project Structure
 
 - weatherapi.ipynb – Jupyter Notebook containing the Python code for fetching and processing weather data.
-- your_sql_file.sql – SQL scripts for creating tables and inserting data into PostgreSQL.
+- sql_file.sql – SQL scripts for creating tables and inserting data into PostgreSQL.
 - README.md – Project description and documentation.
 
 ## Features
