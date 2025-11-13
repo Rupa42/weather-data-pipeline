@@ -19,6 +19,7 @@ This project fetches weather data from an API, processes it using Python, and st
 
 1. Clone the repository:
 
-```bash
+```
 git clone https://github.com/yourusername/weather-api.git
-cd weather-api```
+cd weather-api
+```
