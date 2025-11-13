@@ -1,6 +1,23 @@
 # Weather API Project
 
-This project fetches weather data from an API, processes it using Python, and stores it in a PostgreSQL database. It demonstrates data retrieval, processing, and storage workflow for a real-world API project.
+# 🌦 Weather Data Pipeline
+
+This project fetches weather data using OpenWeatherMap API, processes it in Python, 
+and stores it into a PostgreSQL database.
+
+## Steps:
+1. Fetch data from API using requests
+2. Transform JSON to structured format
+3. Insert data into PostgreSQL using psycopg2
+
+## Tools:
+- Python
+- PostgreSQL
+- Jupyter Notebook
+- DBeaver
+- This project fetches weather data from an API, processes it using Python, and stores it in a PostgreSQL database. It demonstrates data retrieval, processing, and storage workflow for a real-world API project.
+- Built a working ETL(Extract-Transform-Load) pipeline:
+- API(Extract)- Python(Transform) - PostgreSQL(Load)
 
 ## Project Structure
 
